@@ -1,4 +1,4 @@
-let url = "https://davids-restaurant.herokuapp.com/menu_items.json"
+let url ="https://davids-restaurant.herokuapp.com/menu_items.json"
 
 let menu_items = null;
 
